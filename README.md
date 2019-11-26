@@ -23,17 +23,12 @@ We transmit your personal data to the third parties named below in order to prov
  
 - Cloudflare (U.S.)
 - Eventbrite (U.S.)
-- Flipcause (U.S.)
+- Salsa Labs (U.S.)
 - Google (U.S.)
-- Little Green Light (U.S.)
-- Mailchimp (U.S.)
 - TypeForm (Spain)
 - Wordpress (U.S.)
 - WP Engine (U.S.)
 - Zapier (U.S.)
-- NumFOCUS Staff (U.S.)
-- NumFOCUS Committee Members (U.S., U.K., Germany, Poland, The Netherlands, Italy, India, Argentina, France, Spain)
-- NumFOCUS Board Members (U.S., Belgium, Canada)
  
 We will disclose information we maintain when required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on us; (b) protect and defend our rights or property; and, (c) act under exigent circumstances to protect the personal safety of our users or the public.
  
@@ -84,9 +79,9 @@ The information you provide us may be archived or stored periodically by us acco
  
 You can do the following at any time by contacting us via email at privacy@numfocus.org:
  
-   - See what data we have about you, if any.
-   - Change/correct any data we have about you.
-   - Have us delete any data we have about you.
+   - Request to see what data we have about you, if any.
+   - Request changes/corrections to any data we have about you.
+   - Request that we delete any data we have about you.
    - Express any concern you have about our use of your data.
  
 To protect your privacy and security, we may also take reasonable steps to verify your identity before updating or removing your information. 
@@ -123,6 +118,6 @@ Austin, TX, USA 78709
 info@numfocus.org  
 +1 (512) 222-5449
 
-For the purposes of GDPR, our NumFOCUS representative in the EU is Didrik Pinte, NumFOCUS Treasurer, dpinte@enthought.com (Belgium).
+For the purposes of GDPR, our NumFOCUS representative in the EU is Sylvain Corlay, member of the NumFOCUS Board of Directors, sylvain.corlay@gmail.com  (France).
 
-July 17, 2018
+UPDATED: November 26, 2019

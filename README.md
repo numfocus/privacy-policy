@@ -23,16 +23,32 @@ We may share your personal data with third parties outside of our organization a
  
 We transmit your personal data to the third parties named below in order to provide the Services to you and to secure the Services. To the best of our knowledge, your personal data will be processed and stored in the United States, insofar as the named parties are based in the United States. Your data may be processed and stored in another country if the parties named below use non-U.S. facilities for data storage and processing.
  
+- HubSpot (U.S.) https://legal.hubspot.com/privacy-policy 
+- Zoom (U.S.) https://zoom.com/en/trust/privacy/privacy-statement 
+- GitHub (U.S.) https://docs.github.com/site-policy/privacy-policies/github-privacy-statement 
+- Monday (Israel) https://monday.com/trustcenter/privacy 
+- HappyFox (U.S.) https://www.happyfox.com/privacy-policy/ 
+- Slack (U.S.) https://slack.com/trust/privacy/privacy-policy
+- Zulip (U.S.) https://zulip.com/policies/privacy 
+- Meetup (U.S.) https://www.meetup.com/privacy/ 
+- Pretalx (Germany) https://pretalx.com/p/privacy 
+- Tito (New Zealand) https://ti.to/privacy 
+- Pretix (Germany) https://pretix.eu/about/en/privacy 
+- Ticket Tailor (U.K.) https://www.tickettailor.com/legal/privacy-policy 
+- QuickBooks (U.S.) https://www.intuit.com/privacy/statement/
+- Stripe (U.S.) https://stripe.com/privacy 
+- PayPal (U.S.) https://www.paypal.com/us/webapps/mpp/ua/privacy-full 
+- Wells Fargo (U.S.) https://www.wellsfargo.com/privacy-security/ 
+- Truist (U.S.) https://www.truist.com/privacy-policy 
+- Wise (U.K.) https://wise.com/gb/legal/privacy-notice-personal-en 
+- Outlaw (U.S.) https://getoutlaw.com/security/ 
+- Netlify (U.S.) https://www.netlify.com/privacy/
+- AWS (U.S.) https://aws.amazon.com/privacy/
 - Cloudflare (U.S.) https://www.cloudflare.com/privacypolicy/
-- Eventbrite (U.S.) https://www.eventbrite.com/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy?lg=en_US
-- Salsa Labs (U.S.) https://www.salsalabs.com/privacy-policy
 - Google (U.S.) https://policies.google.com/privacy?fg=1
 - TypeForm (Spain) https://admin.typeform.com/to/dwk6gt/
 - WordPress (U.S.) https://wordpress.org/about/privacy/
 - WP Engine (U.S.) https://wpengine.com/legal/privacy/
-- Zapier (U.S.) https://zapier.com/privacy
-- IBL Education (U.S.)
-- Open edX (U.S.) https://open.edx.org/privacy-policy/ 
  
 We will disclose the information we maintain when required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on us; (b) protect and defend our rights or property; and, (c) act under exigent circumstances to protect the personal safety of our users or the public. Where required, we have concluded a controller-processor agreement with these third parties as listed above. 
  
@@ -127,7 +143,7 @@ Austin, TX, USA 78709
 info@numfocus.org  
 +1 (512) 831-2870
 
-For the purposes of GDPR, our NumFOCUS representative in the EU is Sylvain Corlay, member of the NumFOCUS Board of Directors, sylvain.corlay@gmail.com (France).
+For the purposes of GDPR, our NumFOCUS representative in the EU is Sylvain Corlay, member of the NumFOCUS EU Board of Directors, sylvain.corlay@gmail.com (France).
 
 EFFECTIVE DATE: December 13, 2017
-UPDATED: June 23, 2020
+UPDATED: October 6, 2025
